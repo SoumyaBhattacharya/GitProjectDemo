@@ -6,4 +6,8 @@ change:-> to test logout
 
 Fixing the bug bug1
 
+
 Master commits simulation
+
+Fixing bug2
+
