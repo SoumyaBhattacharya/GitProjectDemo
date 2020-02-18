@@ -3,3 +3,6 @@ This is file 2 to implement rebase
 Pushing to remote repo
 
 Change by teammate on the remote repo
+
+
+Rebase commit on remote master by teammate
