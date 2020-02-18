@@ -11,3 +11,5 @@ Master commits simulation
 
 Fixing bug2
 
+Mastewr teammate simulation for rebase parallel to CR1
+
