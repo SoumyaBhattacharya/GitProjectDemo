@@ -6,3 +6,5 @@ Change by teammate on the remote repo
 
 
 Rebase commit on remote master by teammate
+
+REbase commit on local master
